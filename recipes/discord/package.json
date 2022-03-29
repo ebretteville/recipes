@@ -4,7 +4,7 @@
   "version": "1.4.6",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://discordapp.com/login",
+    "serviceURL": "https://discordapp.com/app",
     "hasNotificationSound": true,
     "hasIndirectMessages": true
   }
