@@ -4,7 +4,7 @@
   "version": "2.2.5",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://instagram.com/direct/inbox",
+    "serviceURL": "https://instagram.com/",
     "hasNotificationSound": true
   }
 }
